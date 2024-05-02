@@ -63,7 +63,7 @@ header button:hover {
 .main_board {
   min-height: 687px;
   max-width: 1920px;
-  background-image: url(".../img/shutterstock_795013699\ 1.png");
+  background-image: url(../img/shutterstock_795013699\ 1.png);
   background-repeat: no-repeat;
   background-size: cover;
 }
